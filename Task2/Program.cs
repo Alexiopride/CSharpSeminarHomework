@@ -1,14 +1,18 @@
-﻿// Программа, которая принимает на вход три числа и выдаёт максимальное из этих чисел
+﻿// ____________________________________________________________________
+// Задача 2.
+// Напишите программу, которая принимает на вход 
+// три числа и выдаёт максимальное из этих чисел
+// ____________________________________________________________________
 
 Console.WriteLine("Enter first number");
-int firstNumber = Convert.ToInt32(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter second number");
-int secondNumber = Convert.ToInt32(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter third number");
-int thirdNumber = Convert.ToInt32(Console.ReadLine());
-int max = firstNumber;
-if (secondNumber > max) max = secondNumber; 
-if (thirdNumber > max) max = thirdNumber; 
+int num3 = Convert.ToInt32(Console.ReadLine());
+int max = num1;
+if (num2 > max) max = num2; 
+if (num3 > max) max = num3; 
 
 Console.Write("max = ");
 Console.WriteLine(max);
