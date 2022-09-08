@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zabya\\Downloads\\OneDrive\\Рабочий стол\\Знакомство с языками программирования (лекции)\\CSharpSeminarHomework\\Seminar1_HomeWork\\Task1\\Task1.csproj": {}
+    "C:\\GeekBrains\\CSharpSeminarHomework\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zabya\\Downloads\\OneDrive\\Рабочий стол\\Знакомство с языками программирования (лекции)\\CSharpSeminarHomework\\Seminar1_HomeWork\\Task1\\Task1.csproj": {
+    "C:\\GeekBrains\\CSharpSeminarHomework\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zabya\\Downloads\\OneDrive\\Рабочий стол\\Знакомство с языками программирования (лекции)\\CSharpSeminarHomework\\Seminar1_HomeWork\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\GeekBrains\\CSharpSeminarHomework\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\zabya\\Downloads\\OneDrive\\Рабочий стол\\Знакомство с языками программирования (лекции)\\CSharpSeminarHomework\\Seminar1_HomeWork\\Task1\\Task1.csproj",
+        "projectPath": "C:\\GeekBrains\\CSharpSeminarHomework\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\zabya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zabya\\Downloads\\OneDrive\\Рабочий стол\\Знакомство с языками программирования (лекции)\\CSharpSeminarHomework\\Seminar1_HomeWork\\Task1\\obj\\",
+        "outputPath": "C:\\GeekBrains\\CSharpSeminarHomework\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zabya\\AppData\\Roaming\\NuGet\\NuGet.Config"
